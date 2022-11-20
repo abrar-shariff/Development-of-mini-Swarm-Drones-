@@ -6,6 +6,9 @@ Two major categories of drone swarm system
  Manual drone swarm. 
 Automatic drone Swarm.
 
+![Screenshot 2022-11-21 003514](https://user-images.githubusercontent.com/118679044/202921000-ecbf3f6e-743f-48ed-8888-d7a8b1454086.png)
+
+
 
 # PROBLEM STATEMENT-
 The primary objective of this project is to develop a set of Swarm drones that should be able to perform several coordinate formations together.
