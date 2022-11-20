@@ -1,6 +1,5 @@
 # Development-of-mini-Swarm-Drones-
 # Instalation of software
 
-[installing Ardupilot and MAVproxy](https://github.com/abrar-shariff/Development-of-mini-Swarm-Drones-/tree/main/docs) 
+[installing Ardupilot and MAVproxy](https://github.com/abrar-shariff/Development-of-mini-Swarm-Drones-/blob/main/docs/Installing_Ardupilot_20_04.md) 
 
-[this link](https://www.youtube.com/watch?v=uvTcd-VlM64)
